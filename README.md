@@ -5,10 +5,10 @@
 
 - Implemented comprehensive business logic, including order handling. menu management, and delivery partner assignment, resulting in effi- cient operations and improved service quality.
 
-- Implemented Hibernate with JPA on a PostgreSQL database for efficient and reliable data handling in the food delivery application.
+- Implemented Hibernate with JPA on a MySQL database for efficient and reliable data handling in the food delivery application.
 
 # Tech Stack
-- Java, Spring Boot, Hibernate, JPA, Tomcat, PostgreSQL, Postman
+- Java, Spring Boot, Hibernate, JPA, Tomcat, MYSQL, Postman
 
 
 
