@@ -8,7 +8,7 @@
 - Implemented Hibernate with JPA on a PostgreSQL database for efficient and reliable data handling in the food delivery application.
 
 # Tech Stack
--Java, Spring Boot, Hibernate, JPA, Tomcat, PostgreSQL, Postman
+- Java, Spring Boot, Hibernate, JPA, Tomcat, PostgreSQL, Postman
 
 
 
